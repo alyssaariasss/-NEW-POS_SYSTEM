@@ -1,0 +1,150 @@
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\bin\Debug\POS_SYSTEM.exe.config
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\bin\Debug\POS_SYSTEM.exe
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\bin\Debug\POS_SYSTEM.pdb
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM.Form2.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM.Form3.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM.Properties.Resources.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM.exe
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM.pdb
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM.HOMEPAGE.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM.Form4.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM.Form5.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM.Form6.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM.Form7.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM.Form8.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM.resetpass.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM.Form7C.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM.Form4C.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM.Form5C.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM.resetpassC.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM.Form8C.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\bin\Debug\mongocrypt.dll
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\bin\Debug\Crc32C.NET.dll
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\bin\Debug\DnsClient.dll
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\bin\Debug\MongoDB.Bson.dll
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\bin\Debug\MongoDB.Driver.dll
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\bin\Debug\SharpCompress.dll
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\bin\Debug\Snappy.NET.dll
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\bin\Debug\System.Buffers.dll
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\bin\Debug\Crc32C.NET.xml
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\bin\Debug\DnsClient.xml
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\bin\Debug\MongoDB.Bson.xml
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\bin\Debug\MongoDB.Driver.xml
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\bin\Debug\Snappy.NET.xml
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\bin\Debug\System.Buffers.xml
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM.csproj.CopyComplete
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\bin\Debug\mongocrypt.dll
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\bin\Debug\POS_SYSTEM.exe.config
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\bin\Debug\POS_SYSTEM.exe
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\bin\Debug\POS_SYSTEM.pdb
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\bin\Debug\Crc32C.NET.dll
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\bin\Debug\DnsClient.dll
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\bin\Debug\MongoDB.Bson.dll
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\bin\Debug\MongoDB.Driver.dll
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\bin\Debug\SharpCompress.dll
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\bin\Debug\Snappy.NET.dll
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\bin\Debug\System.Buffers.dll
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\bin\Debug\Crc32C.NET.xml
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\bin\Debug\DnsClient.xml
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\bin\Debug\MongoDB.Bson.xml
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\bin\Debug\MongoDB.Driver.xml
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\bin\Debug\Snappy.NET.xml
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\bin\Debug\System.Buffers.xml
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.Form7C.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.cashier.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.delclerk.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.Form4C.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.Form5C.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.Form8C.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.HOMEPAGE.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.Form2.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.Form3.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.Form4.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.Form5.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.Form6.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.Form7.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.Form8.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.manager.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.janitress.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.janitor.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.Properties.Resources.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.slsassociate.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.resetpass.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.resetpassC.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.csproj.CopyComplete
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.exe
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM - Copy\obj\Debug\POS_SYSTEM.pdb
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM._1manager.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM._2cashier.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM._3slsassociate.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM._4delclerk.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM._5janitress.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM._6janitor.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM._3admin_no.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM.viewcart.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM.checkout.resources
+C:\Users\dell\Desktop\POS SYSTEM\POS_SYSTEM\obj\Debug\POS_SYSTEM.receipt.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\bin\Debug\mongocrypt.dll
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\bin\Debug\POS_SYSTEM.exe.config
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\bin\Debug\POS_SYSTEM.exe
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\bin\Debug\POS_SYSTEM.pdb
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\bin\Debug\Crc32C.NET.dll
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\bin\Debug\DnsClient.dll
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\bin\Debug\MongoDB.Bson.dll
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\bin\Debug\MongoDB.Driver.dll
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\bin\Debug\SharpCompress.dll
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\bin\Debug\Snappy.NET.dll
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\bin\Debug\System.Buffers.dll
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\bin\Debug\Crc32C.NET.xml
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\bin\Debug\DnsClient.xml
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\bin\Debug\MongoDB.Bson.xml
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\bin\Debug\MongoDB.Driver.xml
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\bin\Debug\Snappy.NET.xml
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\bin\Debug\System.Buffers.xml
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM._3admin_no.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.Form7C.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM._2cashier.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM._4delclerk.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.Form4C.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.Form5C.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.Form8C.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.checkout.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.HOMEPAGE.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.Form2.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.Form3.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.Form4.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.Form5.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.Form6.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.Form7.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.Form8.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM._1manager.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM._5janitress.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM._6janitor.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.Properties.Resources.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM._3slsassociate.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.resetpass.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.resetpassC.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.viewcart.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.receipt.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.csproj.CopyComplete
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.exe
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.pdb
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.checkoutC.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.orderform.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.receiptC.resources
+C:\Users\dell\Desktop\POS SYSTEM\(NEW)POS_SYSTEM\obj\Debug\POS_SYSTEM.viewcartC.resources
