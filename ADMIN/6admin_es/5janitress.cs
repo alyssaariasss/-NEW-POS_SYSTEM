@@ -22,6 +22,7 @@ namespace POS_SYSTEM
         {
             List<manager> list = collection.AsQueryable().ToList<manager>();
             dataGridView2.DataSource = list;
+            textBox1.Text = dataGridView2.Rows[0].Cells[0].Value.ToString();
             datetb.Text = dataGridView2.Rows[0].Cells[1].Value.ToString();
             intb.Text = dataGridView2.Rows[0].Cells[2].Value.ToString();
             outtb.Text = dataGridView2.Rows[0].Cells[3].Value.ToString();
@@ -37,6 +38,7 @@ namespace POS_SYSTEM
         {
             List<manager> list = collection.AsQueryable().ToList<manager>();
             dataGridView2.DataSource = list;
+            textBox1.Text = dataGridView2.Rows[0].Cells[0].Value.ToString();
             datetb.Text = dataGridView2.Rows[0].Cells[1].Value.ToString();
             intb.Text = dataGridView2.Rows[0].Cells[2].Value.ToString();
             outtb.Text = dataGridView2.Rows[0].Cells[3].Value.ToString();
@@ -55,6 +57,17 @@ namespace POS_SYSTEM
             Form6 f6 = new Form6();
             f6.ShowDialog();
             this.Close();
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            DateTime datetime = DateTime.Now;
+            this.datelabel.Text = datetime.ToString();
+        }
+
+        private void _5janitress_Load(object sender, EventArgs e)
+        {
+            timer1.Start();
         }
     }
 }

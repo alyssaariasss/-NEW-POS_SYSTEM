@@ -28,11 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
-            this.button1 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.label5 = new System.Windows.Forms.Label();
             this.saltb = new System.Windows.Forms.TextBox();
@@ -66,6 +66,8 @@
             this.pictureBox8 = new System.Windows.Forms.PictureBox();
             this.datetb = new System.Windows.Forms.TextBox();
             this.postb = new System.Windows.Forms.TextBox();
+            this.datelabel = new System.Windows.Forms.Label();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).BeginInit();
@@ -81,32 +83,18 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
             this.SuspendLayout();
             // 
-            // button1
-            // 
-            this.button1.BackColor = System.Drawing.Color.LightSalmon;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.button1.Font = new System.Drawing.Font("Segoe UI Semibold", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(301, 602);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(121, 48);
-            this.button1.TabIndex = 45;
-            this.button1.Text = "DELETE";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.UseWaitCursor = true;
-            // 
             // button3
             // 
             this.button3.BackColor = System.Drawing.Color.LightSalmon;
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button3.Font = new System.Drawing.Font("Segoe UI Semibold", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Location = new System.Drawing.Point(148, 602);
+            this.button3.Location = new System.Drawing.Point(233, 595);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(121, 48);
             this.button3.TabIndex = 44;
-            this.button3.Text = "UPDATE";
+            this.button3.Text = "SAVE";
             this.button3.UseVisualStyleBackColor = false;
             this.button3.UseWaitCursor = true;
-
             // 
             // label5
             // 
@@ -494,11 +482,27 @@
             this.postb.TabIndex = 134;
             this.postb.UseWaitCursor = true;
             // 
+            // datelabel
+            // 
+            this.datelabel.AutoSize = true;
+            this.datelabel.BackColor = System.Drawing.Color.AntiqueWhite;
+            this.datelabel.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.datelabel.Location = new System.Drawing.Point(26, 22);
+            this.datelabel.Name = "datelabel";
+            this.datelabel.Size = new System.Drawing.Size(89, 25);
+            this.datelabel.TabIndex = 135;
+            this.datelabel.Text = "datelabel";
+            // 
+            // timer1
+            // 
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
             // _1manager
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(144F, 144F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
             this.ClientSize = new System.Drawing.Size(1178, 694);
+            this.Controls.Add(this.datelabel);
             this.Controls.Add(this.postb);
             this.Controls.Add(this.datetb);
             this.Controls.Add(this.button2);
@@ -513,7 +517,6 @@
             this.Controls.Add(this.pictureBox10);
             this.Controls.Add(this.dataGridView2);
             this.Controls.Add(this.button4);
-            this.Controls.Add(this.button1);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.pictureBox8);
@@ -536,6 +539,7 @@
             this.Name = "_1manager";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "EMPLOYEE MANAGEMENT - ADMIN";
+            this.Load += new System.EventHandler(this._1manager_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).EndInit();
@@ -555,7 +559,6 @@
         }
 
         #endregion
-        private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.PictureBox pictureBox7;
@@ -589,5 +592,7 @@
         private System.Windows.Forms.PictureBox pictureBox8;
         private System.Windows.Forms.TextBox datetb;
         private System.Windows.Forms.TextBox postb;
+        private System.Windows.Forms.Label datelabel;
+        private System.Windows.Forms.Timer timer1;
     }
 }

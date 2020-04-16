@@ -54,5 +54,15 @@ namespace POS_SYSTEM
             ReadAllDocuments();
         }
 
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            DateTime datetime = DateTime.Now;
+            this.datelabel.Text = datetime.ToString();
+        }
+
+        private void _1manager_Load(object sender, EventArgs e)
+        {
+            timer1.Start();
+        }
     }
 }
